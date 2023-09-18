@@ -19,7 +19,6 @@ file(GLOB_RECURSE INDICATORS_SOURCES
 
 set(SOURCE_FILES
     ${CMAKE_CURRENT_LIST_DIR}/indicators.c
-    ${CMAKE_CURRENT_LIST_DIR}/tiamalgamation.c
     ${CMAKE_CURRENT_LIST_DIR}/candles.c
     ${INDICATORS_SOURCES}
 )
